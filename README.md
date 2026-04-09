@@ -1,5 +1,3 @@
-# algo2-2022c1-grupal
-
 # SimCity – Algorithms and Data Structures II
 
 This main project is based on a simplified version of the popular life simulator game, focusing on the 'Abstract Data Types' specification and its implementation in C++23.
